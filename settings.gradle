@@ -1,0 +1,2 @@
+rootProject.name='Baguni'
+include ':app'
